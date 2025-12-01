@@ -8,7 +8,7 @@ To keep things organized and allow for community input, **we manage all new addi
 
 Instead of opening a Pull Request, please follow these simple steps:
 
-1.  **Go to the [Discussions Tab](https://github.com/ShamanicArts/awesome-opencode/discussions)**.
+1.  **Go to the [Discussions Tab](https://github.com/awesome-opencode/awesome-opencode/discussions)**.
 2.  **Choose the correct category** for your suggestion (e.g., `Plugins`, `Themes`, `Agents`, etc.).
 3.  **Start a new Discussion** with a clear title.
 4.  In the body, please include:
