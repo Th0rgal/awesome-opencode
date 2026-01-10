@@ -52,6 +52,10 @@
 |[plannotator](https://github.com/backnotprop/plannotator)|![GitHub Repo stars](https://badgen.net/github/stars/backnotprop/plannotator)|Interactive plan review with visual annotation and private/offline sharing.|
 |[@openspoon/subtask2](https://github.com/spoons-and-mirrors/subtask2)|![GitHub Repo stars](https://badgen.net/github/stars/spoons-and-mirrors/subtask2)|Extend opencode /commands into a powerful orchestration system with granular flow control.|
 |[opencode-ralph-wiggum](https://github.com/Th0rgal/opencode-ralph-wiggum)|![GitHub Repo stars](https://badgen.net/github/stars/Th0rgal/opencode-ralph-wiggum)|Iterative AI development loops with self-correcting agents. Based on the Ralph Wiggum technique.|
+|[opencode-background-agents](https://github.com/kdcokenny/opencode-background-agents)|![GitHub Repo stars](https://badgen.net/github/stars/kdcokenny/opencode-background-agents)|Claude Code-style background agents with async delegation and context persistence.|
+|[opencode-notify](https://github.com/kdcokenny/opencode-notify)|![GitHub Repo stars](https://badgen.net/github/stars/kdcokenny/opencode-notify)|Native OS notifications for OpenCode – know when tasks complete.|
+|[opencode-workspace](https://github.com/kdcokenny/opencode-workspace)|![GitHub Repo stars](https://badgen.net/github/stars/kdcokenny/opencode-workspace)|Bundled multi-agent orchestration harness – 16 components, one install.|
+|[opencode-worktree](https://github.com/kdcokenny/opencode-worktree)|![GitHub Repo stars](https://badgen.net/github/stars/kdcokenny/opencode-worktree)|Zero-friction git worktrees for OpenCode. Auto-spawns terminals, syncs files, cleans up on exit.|
 ➡️ **[Suggest a new Plugin in our Discussions!](https://github.com/awesome-opencode/awesome-opencode/discussions/categories/plugins)**
 
 ## Themes
@@ -93,6 +97,7 @@
 |[oc-manager](https://github.com/kcrommett/oc-manager)|![GitHub Repo stars](https://badgen.net/github/stars/kcrommett/oc-manager)|Terminal UI for inspecting, filtering, and pruning OpenCode metadata stored on disk. The app is written in TypeScript, runs on Bun, and renders with @opentui/react.|
 |[beads](https://github.com/steveyegge/beads)|![GitHub Repo stars](https://badgen.net/github/stars/steveyegge/beads)|Steve Yegge's project/task management system for agents (with beads_viewer UI)|
 |[opencode-ddev](https://github.com/JUVOJustin/opencode-ddev)|![GitHub Repo stars](https://badgen.net/github/stars/JUVOJustin/opencode-ddev)|Wraps bash commands to execute inside the DDEV container (Docker-based PHP development environments).|
+|[ocx](https://github.com/kdcokenny/ocx)|![GitHub Repo stars](https://badgen.net/github/stars/kdcokenny/ocx)|OpenCode extension manager with Ghost Mode for portable, isolated profiles. Work anywhere with your config.|
 ➡️ **[Suggest a new Project in our Discussions!](https://github.com/awesome-opencode/awesome-opencode/discussions/categories/projects)**
 
 ## Resources
