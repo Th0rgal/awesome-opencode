@@ -260,11 +260,11 @@
 </details>
 
 <details>
-  <summary><b>Smart Voice Notify</b> <img src="https://badgen.net/github/stars/Tarquinen/opencode-smart-voice-notify" height="14"/> - <i>Intelligent voice notifications</i></summary>
+  <summary><b>Smart Voice Notify</b> <img src="https://badgen.net/github/stars/MasuRii/opencode-smart-voice-notify" height="14"/> - <i>Intelligent voice notifications</i></summary>
   <blockquote>
     Smart voice notification plugin with multiple TTS engines (ElevenLabs, Edge TTS, SAPI) and intelligent reminder system.
     <br><br>
-    <a href="https://github.com/Tarquinen/opencode-smart-voice-notify">🔗 <b>View Repository</b></a>
+    <a href="https://github.com/MasuRii/opencode-smart-voice-notify">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
